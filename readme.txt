@@ -23,6 +23,12 @@ While doing the installation procedure, it is recommended to go through all the 
 1. Upload folder `web20-notifications` to the `/wp-content/plugins` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Frequently Asked Questions ==
+
+= I do not receive the test message, what to do? =
+
+If you create a separate account for the plug, then if the plugin does not send you a message through this account, then you want to connect through any icq client and pass the ICQ service. This is a confirmation that through your account does not write the bot. Plugin unfortunately cannot pass the captcha.
+
 == Screenshots ==
 1. Service setting notifications, icq, Jabber
 2. The notification settings
