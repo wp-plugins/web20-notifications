@@ -83,12 +83,7 @@ $web20_notification = get_option('web20_notification');
 
 
 <?php
-$url_admin=admin_url();
-$url_site=site_url();
-$patch_admin= str_replace($url_site, "", $url_admin);
-echo $url_site."<br>";
-echo $url_admin."<br>";
-echo $patch_admin."<br>";
+
 
 
 

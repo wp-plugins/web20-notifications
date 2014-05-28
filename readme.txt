@@ -8,7 +8,7 @@ Stable tag: 3.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple aside plugin.
+Advanced event notifications in the blog, support ICQ, Jabber.
 
 == Description ==
 <ru>Расширенные способы уведомлений о событиях в блоге, поддержка ICQ, Jabber уведомлений о комментариях, входах пользователей, добавлению черновиков и публикации записей.
