@@ -23,6 +23,9 @@ While doing the installation procedure, it is recommended to go through all the 
 1. Upload folder `web20-notifications` to the `/wp-content/plugins` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Screenshots ==
+1. Service setting notifications, icq, Jabber
+2. The notification settings
 
 == Changelog ==
 = 1.0 =
