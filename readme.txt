@@ -2,7 +2,7 @@
 Contributors: northmule
 Donate link: http://www.zixn.ru/
 Tags: notifications, icq, jabber
-Requires at least: 4.0
+Requires at least: 3.3
 Tested up to: 4.0
 Stable tag: 4.0
 License: GPLv2 or later
