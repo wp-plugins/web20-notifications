@@ -17,7 +17,7 @@ Advanced event notifications in the blog, support ICQ, Jabber.
 * Уведомления о входах пользователей.
 * Уведомления при добавлении черновиков.
 * Уведомления при публикации записей.
-*Advanced event notifications in the blog, support ICQ, Jabber comment notifications, user logins, adding draft and publish records.
+* Advanced event notifications in the blog, support ICQ, Jabber comment notifications, user logins, adding draft and publish records.
 
 Support and suggestions, [Support](http://www.zixn.ru/web20-notifications.html)
 
