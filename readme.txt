@@ -3,7 +3,7 @@ Contributors: northmule
 Donate link: http://www.zixn.ru/
 Tags: notifications, icq, jabber
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,8 +11,16 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Advanced event notifications in the blog, support ICQ, Jabber.
 
 == Description ==
-<ru>Расширенные способы уведомлений о событиях в блоге, поддержка ICQ, Jabber уведомлений о комментариях, входах пользователей, добавлению черновиков и публикации записей.
-<en>Advanced event notifications in the blog, support ICQ, Jabber comment notifications, user logins, adding draft and publish records.
+* Расширенные способы уведомлений о событиях в блоге.
+* Поддержка ICQ и Jabber.
+* Уведомления о комментариях.
+* Уведомления о входах пользователей.
+* Уведомления при добавлении черновиков.
+* Уведомления при публикации записей.
+* ---------------.
+Advanced event notifications in the blog, support ICQ, Jabber comment notifications, user logins, adding draft and publish records.
+
+Support and suggestions, [Support](http://www.zixn.ru/web20-notifications.html)
 
 == Installation ==
 
